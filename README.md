@@ -6,7 +6,7 @@
 </p>
 
 # Gfriends 女友头像仓库
-![TotalNumber](https://img.shields.io/badge/全部女友数-327,159-blueviolet.svg)  ![AutoUpdate](https://img.shields.io/badge/更新日期-2026--11--5-brightgreen.svg)<br>
+![TotalNumber](https://img.shields.io/badge/全部女友数-327,391-blueviolet.svg)  ![AutoUpdate](https://img.shields.io/badge/更新日期-2026--11--8-brightgreen.svg)<br>
 
 ## 本仓库非官方库，属于 Avdb 和 Emby 插件 ActorArchives 的专有仓库， 使用和浏览请确认符合当地法律规定。
 
